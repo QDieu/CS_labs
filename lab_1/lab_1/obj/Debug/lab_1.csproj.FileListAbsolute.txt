@@ -1,0 +1,10 @@
+C:\Users\navvy\Desktop\programming\с#\lab_1\lab_1\bin\Debug\lab_1.exe.config
+C:\Users\navvy\Desktop\programming\с#\lab_1\lab_1\bin\Debug\lab_1.exe
+C:\Users\navvy\Desktop\programming\с#\lab_1\lab_1\bin\Debug\lab_1.pdb
+C:\Users\navvy\Desktop\programming\с#\lab_1\lab_1\obj\Debug\lab_1.csprojAssemblyReference.cache
+C:\Users\navvy\Desktop\programming\с#\lab_1\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+C:\Users\navvy\Desktop\programming\с#\lab_1\lab_1\obj\Debug\lab_1.exe
+C:\Users\navvy\Desktop\programming\с#\lab_1\lab_1\obj\Debug\lab_1.pdb
+C:\Users\navvy\Desktop\programming\с#\lab_1\lab_1\bin\Debug\CommandLine.dll
+C:\Users\navvy\Desktop\programming\с#\lab_1\lab_1\bin\Debug\CommandLine.xml
+C:\Users\navvy\Desktop\programming\с#\lab_1\lab_1\obj\Debug\lab_1.csproj.CopyComplete
